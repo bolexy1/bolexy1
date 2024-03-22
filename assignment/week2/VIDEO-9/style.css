@@ -1,0 +1,27 @@
+h1{
+    font-family: arial, "times new roman";
+    color:#ff0000;
+    font-size: 30px;
+    font-style:oblique;
+    font-weight:200;
+    text-align: center;
+    text-decoration: underline;
+    text-indent: 30px;
+    text-transform: uppercase;
+    word-spacing: 5px;
+    background-color: bisque;
+    
+
+}
+p{
+    color:rgb(0, 0, 225);
+    line-height:20px ;
+}
+.b{
+    margin:center;
+}
+
+.newp{
+    background-color:rgb(118, 159, 162)
+    
+}
